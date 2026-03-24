@@ -66,6 +66,6 @@
     "supertest": "^7.0.0",
     "ts-jest": "^29.0.0",
     "tsc-watch": "^7.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^6.0.0"
   }
 }
