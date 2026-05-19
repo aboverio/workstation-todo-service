@@ -62,7 +62,7 @@
     "dotenv": "^17.0.0",
     "jest": "^30.0.0",
     "nodemon": "^3.0.0",
-    "npm-run-all2": "^8.0.0",
+    "npm-run-all2": "^9.0.0",
     "supertest": "^7.0.0",
     "ts-jest": "^29.0.0",
     "tsc-watch": "^7.0.0",
