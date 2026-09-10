@@ -3,11 +3,11 @@
 
 
 "@babel/cli@^8.0.0":
-  version "8.0.4"
-  resolved "https://registry.yarnpkg.com/@babel/cli/-/cli-8.0.4.tgz#b941c026bc0d6e674c363dc1c2cbf784207e2ca7"
-  integrity sha512-mgg9G7dJw7xzx/0Sn8eWQkDpEcQrlDdEV4Y4Ii+8Oay88+lK45vNuSavRUj4g+e5Yfw4tkH4U3ObBFOMJhy4oQ==
+  version "8.0.5"
+  resolved "https://registry.yarnpkg.com/@babel/cli/-/cli-8.0.5.tgz#6904bdc3ac8a555c2bef9bdb1031e946fd5f4bc4"
+  integrity sha512-LEEejQQmSSdLqPJ67poExeYNDO53hraPtn4dyF96W0m452Zys4BEI2kc8kJHLlIy/djUE0gbJ4J7UlIOIB/i9Q==
   dependencies:
-    "@jridgewell/trace-mapping" "^0.3.28"
+    "@jridgewell/trace-mapping" "^0.3.31"
     chokidar "^5.0.0"
     commander "^14.0.2"
     convert-source-map "^2.0.0"
@@ -4765,9 +4765,9 @@ read-package-json-fast@^6.0.0:
     npm-normalize-package-bin "^6.0.0"
 
 readdirp@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/readdirp/-/readdirp-5.0.0.tgz#fbf1f71a727891d685bb1786f9ba74084f6e2f91"
-  integrity sha512-9u/XQ1pvrQtYyMpZe7DXKv2p5CNvyVwzUB6uhLAnQwHMSgKMBR62lc7AHljaeteeHXn11XTAaLLUVZYVZyuRBQ==
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/readdirp/-/readdirp-5.1.1.tgz#520bca06f9d1ae1b96cc0800dbe84b983d19422c"
+  integrity sha512-Kko+Y5XQ6fM+Ce3dq3m9YGxnacYZYl9cA1wZjaF3Vbry2L3i1qVg8+CAgNPsXRArPMUMCaOR7oa9Nqntc43JKA==
 
 readdirp@~3.6.0:
   version "3.6.0"
